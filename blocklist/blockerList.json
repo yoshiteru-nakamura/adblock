@@ -1,0 +1,423 @@
+[
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "webkit.svg"
+        }
+    }
+
+    {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "googlesyndication.com"
+         }
+    }
+
+    {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "ad.adpon.jp"
+         }
+    }
+
+    {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "adclick.g.doubleclick.net"
+         }
+    }
+
+    {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "ads.nicovideo.jp"
+         }
+    }
+
+    {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "audiencedata.im-apps.net"
+         }
+     }
+
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "book.dmm.com"
+         }
+     }
+
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "booklive.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "bookpass.auone.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "bookwalker.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "cdn.file.octopuspop.com"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "cdn.logly.co.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "cdnfluct.sh.adingo.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "cf.im-apps.net"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "comic.k-manga.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "d-cache.microad.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "doubleclick.net"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "googletagmanager.com"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "gum.criteo.com"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "static.criteo.com"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "yting.com"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "img.bbchat.tv"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "img.gsspat.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "info.mechacomi.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "lp.adclr.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "manga.rakuten.net"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "music-book.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "pagead2.googlesyndication.com"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "renta.papy.co.jp"
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "s2.2mdn.net"
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "safeframe.googlesyndication."
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "sp.comics.mecha.cc"
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "sp.handycomic.jp"
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "i-mobile.co.jp"
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "static.doubleclick.net"
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "static.octopus.tokyo"
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "static.pc-adroute.focas.jp"
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "static.zucks.net.zimg.jp"
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "topmanga.jp"
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "trc.taboola.com"
+         }
+     }
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "v2st.shinobi.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "cmoa.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "www.googleadservices.com"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "www.googletagmanager.com"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "www.lezhin.com"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "www.papy.co.jp"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "a8.net"
+         }
+     }
+     
+     {
+         "action": {
+             "type": "block"
+         },
+         "trigger": {
+             "url-filter": "rd-ane.yahoo.jp"
+         }
+     }
+     
+]
+
